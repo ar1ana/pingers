@@ -1,4 +1,4 @@
-# pingers
+# prisons pinger
 a basic pinger
 this pinger is made by prisons 
 kindly use this for legal purposes only 
